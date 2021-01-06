@@ -1,0 +1,28 @@
+body{
+    box-sizing: border-box;
+}
+header{
+    background-color: rgb(167, 167, 167);
+    border: solid 2px black;
+    padding: 5px;
+}
+.navbar-brand{
+  
+    font-weight: bold;
+    font-size: 2em;
+    padding:10px;
+}
+#title{
+    font-weight: bold;
+    font-size: 2em;
+}
+.row>div{
+  background-color:rgb(167, 167, 167) ;
+  border: solid 10px white;
+  padding:10px;
+
+}
+.title{
+    font-weight: bold;
+    font-size: 1.2em;
+}
